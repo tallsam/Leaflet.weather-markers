@@ -2,3 +2,5 @@
 Colorful weather markers for Leaflet, based on the weather icons at https://erikflowers.github.io/weather-icons/
 
 This is a fork of https://github.com/lvoogdt/Leaflet.awesome-markers
+
+![Screenshot1](https://raw.githubusercontent.com/tallsam/Leaflet.weather-markers/master/screenshots/hot-cold-markers.png)
