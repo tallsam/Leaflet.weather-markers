@@ -1,2 +1,2 @@
-# leaflet-weather-markers
-Leaflet plugin for https://erikflowers.github.io/weather-icons/
+# Leaflet.weather-markers plugin v1.0
+Colorful weather markers for Leaflet, based on the weather icons at https://erikflowers.github.io/weather-icons/
