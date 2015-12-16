@@ -1,9 +1,10 @@
 /*
   Leaflet.WeatherMarkers, a plugin that adds colorful iconic markers for Leaflet, based on the Font Weather icons
-  (c) 2012-2013, Lennard Voogdt
+  (c) 2012-2013, Lennard Voogdt, Sam Hassell
 
   http://leafletjs.com
   https://github.com/lvoogdt
+  https://https://github.com/tallsam
 */
 
 /*global L*/
